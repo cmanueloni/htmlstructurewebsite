@@ -1,0 +1,85 @@
+
+body {
+    height: 100%;
+    border: groove;
+    background-color: #d16219;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+p1 {
+    background-color: #a37f68;
+    margin: 10px;
+    padding: 0;
+    font-family: cursive ;
+    font-size: medium ;
+    font-style: normal ;
+    text-overflow: clip;
+    border: #e89e6f;
+    display: inline-block
+}
+
+h1 {
+    text-align: center;
+    text-shadow: #2c2b2d;
+    text-decoration: blink;
+    background-color: transparent, #690f96;
+    font-family: fantasy;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: !important;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    font-size: 1.2em;
+    line-height: 40px;
+    height: 40px;
+    display: inline-block;
+    margin-left: 2.5%
+}
+
+nav ol {
+    height: ;
+    border: ;
+    text-align: left;
+    float: left;
+    display: inline-block;
+}
+
+nav a {
+    height: ;
+    border: ;
+    background-color: ;
+    text-decoration: none;
+    color: #ffffff;
+    display: block;
+}
+
+.button {
+  border: dotted;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: blink;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.button1 {color: #3b0b4c;} /*dark lilac */
+.button2 {color: #3b0b4c;} /*dark lilac */
+.button3 {color: #3b0b4c;} /*dark lilac */
+
+a href {color: #3b0b4c;
+        /*dark lilac */
+        font: bold;
+        font: black;}
+        
+a href {color: #3b0b4c;} /*dark lilac */
+a href {color: #3b0b4c;} /*dark lilac */
